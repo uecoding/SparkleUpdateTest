@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>updateTest</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Wed, 16 Oct 2024 02:48:36 +0300</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.7</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/uecoding/SparkleUpdateTest/releases/download/prod/updateTest.0.9.dmg" length="6285254" type="application/octet-stream" sparkle:edSignature="1+9sGGXvQynJ7PwAJ2Zc3tQ01K+B0O3n5LUf01IU5MRRYDRSVF8HDO6tNl1NStl2Y+pTzfUqY1i7dhjww9H5Ag=="/>
+        </item>
+    </channel>
+</rss>
