@@ -3,12 +3,12 @@
     <channel>
         <title>updateTest</title>
         <item>
-            <title>0.13</title>
-            <pubDate>Wed, 16 Oct 2024 03:37:54 +0300</pubDate>
-            <sparkle:version>0.14</sparkle:version>
-            <sparkle:shortVersionString>0.13</sparkle:shortVersionString>
+            <title>0.15</title>
+            <pubDate>Wed, 16 Oct 2024 03:43:47 +0300</pubDate>
+            <sparkle:version>0.15</sparkle:version>
+            <sparkle:shortVersionString>0.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.7</sparkle:minimumSystemVersion>
-            <enclosure url="https://uecoding.github.io/SparkleUpdateTest/updateTest%200.14.dmg" length="941753" type="application/octet-stream" sparkle:edSignature="s70AxXQcJ0gICK3EmYQvtFq4+/IuYhwL7k1XoRcQ+v9eR3UeboLtoAhATDKTZzEzyoYVlwDGhycW2apo6x5iDg=="/>
+            <enclosure url="https://github.com/uecoding/SparkleUpdateTest/releases/download/prod/updateTest.0.15.dmg" length="945042" type="application/octet-stream" sparkle:edSignature="5iJ1WsTvc/j8j4SNmZAQLGOpEQQODxXqNGoqMZOeyKOjORR4iLlZmDBZ5GGT3nwvgs7E+hENy0ActvFv2y9kAQ=="/>
         </item>
     </channel>
 </rss>
